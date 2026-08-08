@@ -93,3 +93,9 @@ The objective of this project is to transform raw sales data into meaningful bus
 - KPI Development
 - Interactive Dashboard Creation
 - Business Intelligence
+
+## Dashboard
+
+<img width="1077" height="576" alt="Dashboard Screenshot " src="https://github.com/user-attachments/assets/624ea922-ba83-4346-a53f-32b2fa8baf03" />
+
+  
