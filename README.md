@@ -47,7 +47,7 @@ The data preparation process included:
 - Total Quantity
 - Average Sales
 - Profit Margin
-- 
+  
 ### Visualizations
 
 - Sales Trend
